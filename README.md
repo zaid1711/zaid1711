@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 Hi 👋 I'm Zaid<br><br>🚀 Software Engineer | Prompt Engineer | AI Engineer<br><br>💻 Currently working as a **Full Stack Developer Intern** building modern web applications.<br><br>⚡ Tech Stack:<br><br>* Frontend: **React.js, Tailwind CSS**<br>* Backend: **Django, REST APIs**<br>* Other: **AI Prompt Engineering, Git, GitHub**<br><br>🧠 Interested in **Artificial Intelligence, Full Stack Development, and building real-world scalable systems**.<br><br>🔬 I enjoy experimenting with new technologies and creating solutions that solve real problems.<br><br>📚 Always learning and improving my skills in **AI, Web Development, and Software Engineering**.<br>
 
 
