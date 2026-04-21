@@ -12,7 +12,5 @@ Helloww 👋 I'm Zaid Nadaf<br><br>🚀 Software Engineer | Prompt Engineer | AI
 ![](https://nirzak-streak-stats.vercel.app/?user=zaid1711&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid1711&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zaid1711&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
