@@ -1,7 +1,7 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<svg width="100%" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer">
+<svg width="100%" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer" style="background: #0d1117; border-radius: 20px;">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117">
