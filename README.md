@@ -1,8 +1,7 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:182235,100:0d1117&height=240&text=Zaid%20Nadaf&fontColor=4169E1&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Prompt%20Engineer%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=twinkle" width="100%" alt="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
