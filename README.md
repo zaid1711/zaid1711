@@ -1,7 +1,7 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer">
+<svg width="100%" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117">
@@ -87,6 +87,11 @@
   </rect>
 </svg>
 
+<!-- ===== TYPING ANIMATION ===== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;AI+%26+Scalable+Systems+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
+
 <!-- ===== PROFILE VIEWS + FOLLOW ===== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=nadafz811&label=Profile%20Views&color=4169E1&style=flat" alt="profile views" />
@@ -130,7 +135,7 @@ const zaid = {
 <a href="mailto:nadafz811@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/zaid1711">
+<a href="https://github.com/nadafz811">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
