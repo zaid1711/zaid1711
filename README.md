@@ -1,12 +1,91 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=200&section=header&text=Zaid%20Nadaf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Prompt%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descAlign=50" />
+<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Zaid Nadaf - Software Engineer, Prompt Engineer, AI Engineer">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#161b33;#0d1117" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#161b33">
+        <animate attributeName="stop-color" values="#161b33;#0d1117;#161b33" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="50%" stop-color="#4169E1" />
+      <stop offset="100%" stop-color="#00CED1" />
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="50%" stop-color="#4169E1" />
+      <stop offset="100%" stop-color="#00CED1" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;AI+%26+Scalable+Systems+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+  <rect width="1000" height="260" rx="20" fill="url(#bgGrad)" />
+
+  <g fill="#4169E1" opacity="0.6">
+    <circle cx="120" cy="60" r="3">
+      <animate attributeName="cy" values="60;40;60" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="880" cy="200" r="4" fill="#00CED1">
+      <animate attributeName="cy" values="200;180;200" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="780" cy="50" r="2.5" fill="#8A2BE2">
+      <animate attributeName="cy" values="50;70;50" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="200" cy="210" r="3.5" fill="#00CED1">
+      <animate attributeName="cy" values="210;190;210" dur="5.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="5.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="500" cy="35" r="2" fill="#4169E1">
+      <animate attributeName="cy" values="35;20;35" dur="7s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="60" cy="150" r="2.5" fill="#8A2BE2">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="940" cy="110" r="3" fill="#4169E1">
+      <animate attributeName="cy" values="110;95;110" dur="6.5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <text x="500" y="70" font-family="'Fira Code', 'Courier New', monospace" font-size="20" fill="#00CED1" text-anchor="middle" opacity="0.9">
+    <tspan fill="#8A2BE2">~/</tspan>whoami
+  </text>
+
+  <text x="500" y="140" font-family="'Segoe UI', 'Helvetica', sans-serif" font-size="64" font-weight="800" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">
+    Zaid Nadaf
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze" />
+  </text>
+
+  <rect x="330" y="158" width="340" height="4" rx="2" fill="url(#lineGrad)">
+    <animate attributeName="width" values="0;340;0" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="x" values="500;330;500" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="500" y="200" font-family="'Fira Code', 'Courier New', monospace" font-size="19" fill="#c9d1d9" text-anchor="middle" letter-spacing="1">
+    Software Engineer
+    <tspan fill="#4169E1"> • </tspan>Prompt Engineer<tspan fill="#4169E1"> • </tspan>AI Engineer
+    <animate attributeName="opacity" values="0;0;1" dur="2.5s" fill="freeze" />
+  </text>
+
+  <rect x="710" y="55" width="10" height="20" fill="#00CED1">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
 
 <!-- ===== PROFILE VIEWS + FOLLOW ===== -->
 <p>
