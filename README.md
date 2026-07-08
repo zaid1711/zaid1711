@@ -34,7 +34,7 @@ const zaid = {
 };
 ```
 
-- 🔭 Currently working as a **Full Stack Developer Intern**, building modern web applications.
+- 🔭 Currently working as a **Full Stack Developer**, building modern web applications.
 - 🤖 Passionate about **Artificial Intelligence, Full Stack Development, and real-world scalable systems**.
 - 🧪 I love experimenting with new technologies and creating solutions that solve real problems.
 - 🌱 Always learning and improving my skills in **AI, Web Development & Software Engineering**.
