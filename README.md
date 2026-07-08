@@ -5,7 +5,7 @@
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;Building+Modern+Web+Applications;AI+%26+Scalable+Systems+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;AI+%26+Scalable+Systems+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <!-- ===== PROFILE VIEWS + FOLLOW ===== -->
@@ -24,7 +24,7 @@
 
 ```typescript
 const zaid = {
-  role: "Full Stack Developer Intern",
+  role: "Full Stack Developer",
   location: "India 🇮🇳",
   frontend: ["React.js", "Tailwind CSS"],
   backend: ["Django", "REST APIs"],
